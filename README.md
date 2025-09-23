@@ -18,15 +18,12 @@
 # the way the website runs is very simple search and click method, the user simply servchs the business and clicks on its website.
 # the whole goal is to globalize the business and make the purchasing of goods much mor4e easier for both busness and customer.
 
-## License
-State if it's open-source.
-
-##ADJUSTMENTS MADE
-#WEBSITE LAYOUT:There has been a new page added there is now a home page/welcome page with just the businesses logo, then there is an about page , followed by the business gallery page , products page and lastly the contacts page.
-#BACKGROUD: has change from pastel green to live images of three different flowers 
-#Navigation bar: will no longer have the logo next to it 
-#CONTACTS PAGE: the message box will no be replaced with a google form for more easier resppnse capturing for the business
-#FONT:There has been some minor changes in font style, the texts will appear in white this is due to the colors og the backgroud live image,the font style has also been changed to,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+## ADJUSTMENTS MADE
+# WEBSITE LAYOUT:There has been a new page added there is now a home page/welcome page with just the businesses logo, then there is an about page , followed by the business gallery page , products page and lastly the contacts page.
+# BACKGROUD: has change from pastel green to live images of three different flowers 
+# Navigation bar: will no longer have the logo next to it 
+# CONTACTS PAGE: the message box will no be replaced with a google form for more easier resppnse capturing for the business
+# FONT:There has been some minor changes in font style, the texts will appear in white this is due to the colors og the backgroud live image,the font style has also been changed to,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 
 
