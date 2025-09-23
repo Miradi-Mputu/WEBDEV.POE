@@ -20,3 +20,13 @@
 
 ## License
 State if it's open-source.
+
+##ADJUSTMENTS MADE
+#WEBSITE LAYOUT:There has been a new page added there is now a home page/welcome page with just the businesses logo, then there is an about page , followed by the business gallery page , products page and lastly the contacts page.
+#BACKGROUD: has change from pastel green to live images of three different flowers 
+#Navigation bar: will no longer have the logo next to it 
+#CONTACTS PAGE: the message box will no be replaced with a google form for more easier resppnse capturing for the business
+#FONT:There has been some minor changes in font style, the texts will appear in white this is due to the colors og the backgroud live image,the font style has also been changed to,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
